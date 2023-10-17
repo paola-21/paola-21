@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Всем привет, меня зовут Оля!
+
+# Я начинающий Фронтенд-разработчик
 
 <!--
 **paola-21/paola-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
