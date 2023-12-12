@@ -7,5 +7,5 @@
 
 #### Контакты:
 [<img src="https://img.shields.io/badge/telegram-2F4F4F?style=for-the-badge&logo=telegram&logoColor=FFFFFF"/>](https://t.me/PaolaPanNN)
-[<img src="https://img.shields.io/badge/email-2F4F4F?style=for-the-badge&logo=maildotru&logoColor=FFFFFF"/>](olga_nikolaevna_1995@mail.ru)
+[<img src="https://img.shields.io/badge/email-2F4F4F?style=for-the-badge&logo=maildotru&logoColor=FFFFFF"/>](mailto:olga_nikolaevna_1995@mail.ru)
 
